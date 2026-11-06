@@ -1,0 +1,105 @@
+[
+  {
+    "id": "pib-2311220",
+    "date": "2026-09-17",
+    "title": "India Building Semiconductor Future: capabilities across design, manufacturing, packaging, materials and talent",
+    "publisher": "Press Information Bureau",
+    "category": "Policy",
+    "companies": [
+      "India Semiconductor Mission"
+    ],
+    "technologies": [
+      "Chip design",
+      "Fabs",
+      "Advanced packaging",
+      "Materials"
+    ],
+    "summary": "Government backgrounder describes Semicon 2.0's six strategic pillars and reports 12 approved manufacturing units, five facilities in commercial production, and 24 chip-design projects.",
+    "url": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2311220&lang=1&reg=3",
+    "verification": "Official source · manually seeded"
+  },
+  {
+    "id": "pib-2284784",
+    "date": "2026-07-15",
+    "title": "Cabinet approves Semicon 2.0 with an outlay of ₹1,27,500 crore",
+    "publisher": "Press Information Bureau",
+    "category": "Policy",
+    "companies": [
+      "Government of India",
+      "India Semiconductor Mission"
+    ],
+    "technologies": [
+      "Chip design",
+      "Equipment",
+      "Materials",
+      "Fabs",
+      "Advanced packaging",
+      "R&D"
+    ],
+    "summary": "The Cabinet approved Semicon 2.0 to deepen India's semiconductor design and manufacturing ecosystem, including equipment, materials, research and talent.",
+    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2284784&lang=1&reg=20",
+    "verification": "Official source · manually seeded"
+  },
+  {
+    "id": "pib-2284806",
+    "date": "2026-07-15",
+    "title": "Twelve semiconductor projects approved across six states; three facilities reported in commercial production",
+    "publisher": "Press Information Bureau",
+    "category": "Manufacturing",
+    "companies": [
+      "Micron",
+      "Kaynes Semicon",
+      "CG Power",
+      "India Semiconductor Mission"
+    ],
+    "technologies": [
+      "ATMP",
+      "OSAT",
+      "Silicon fab",
+      "Compound semiconductors"
+    ],
+    "summary": "MeitY's release reports 12 approved manufacturing projects across six states and commercial production at Micron, Kaynes and CG Power's CG Semi facility.",
+    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2284806&lang=1&reg=1",
+    "verification": "Official source · manually seeded"
+  },
+  {
+    "id": "pib-2258119",
+    "date": "2026-05-05",
+    "title": "Cabinet approves two additional semiconductor manufacturing units",
+    "publisher": "Press Information Bureau",
+    "category": "Investment",
+    "companies": [
+      "Crystal Matrix",
+      "Suchi Semicon"
+    ],
+    "technologies": [
+      "GaN",
+      "Micro-LED",
+      "Packaging"
+    ],
+    "summary": "The government announced two additional projects in Gujarat, including a GaN-based Mini/Micro-LED display facility and a semiconductor packaging facility.",
+    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2258119&lang=1&reg=3",
+    "verification": "Official source · manually seeded"
+  },
+  {
+    "id": "pib-2247814",
+    "date": "2026-04-01",
+    "title": "Government reports ten approved projects with investment commitments of about ₹1.6 lakh crore",
+    "publisher": "Press Information Bureau",
+    "category": "Manufacturing",
+    "companies": [
+      "Micron",
+      "Tata Electronics",
+      "CG Power",
+      "Kaynes Semicon"
+    ],
+    "technologies": [
+      "Silicon fab",
+      "ATMP",
+      "OSAT"
+    ],
+    "summary": "Earlier project-level snapshot with annexure details. Retained as historical context, not the latest approved-project count.",
+    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2247814&lang=1&reg=46",
+    "verification": "Official source · historical snapshot"
+  }
+]

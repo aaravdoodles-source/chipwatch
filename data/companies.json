@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Micron",
+    "sector": "Memory · ATMP",
+    "focus": "DRAM and NAND assembly and test",
+    "watch": true
+  },
+  {
+    "name": "Tata Electronics",
+    "sector": "Silicon fabrication · OSAT",
+    "focus": "Semiconductor fabrication and assembly",
+    "watch": true
+  },
+  {
+    "name": "CG Power / CG Semi",
+    "sector": "OSAT",
+    "focus": "Outsourced semiconductor assembly and test",
+    "watch": true
+  },
+  {
+    "name": "Kaynes Semicon",
+    "sector": "ATMP / OSAT",
+    "focus": "Semiconductor assembly and test",
+    "watch": true
+  },
+  {
+    "name": "SiCSem",
+    "sector": "Compound semiconductors",
+    "focus": "Silicon carbide devices and packaging",
+    "watch": true
+  },
+  {
+    "name": "Crystal Matrix",
+    "sector": "Compound semiconductors",
+    "focus": "GaN-based Mini/Micro-LED display technology",
+    "watch": false
+  },
+  {
+    "name": "Suchi Semicon",
+    "sector": "Packaging",
+    "focus": "Semiconductor packaging",
+    "watch": false
+  },
+  {
+    "name": "India Semiconductor Mission",
+    "sector": "Policy",
+    "focus": "Government semiconductor programme",
+    "watch": true
+  }
+]
